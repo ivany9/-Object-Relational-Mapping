@@ -160,6 +160,7 @@
 >SOURCE schema.sql
 >node  seeds/index
 >npm start
+![video](https://user-images.githubusercontent.com/83906297/132088290-9dfcfb1d-446e-499a-b3ac-4e598280d925.gif)
 
 
 ```
